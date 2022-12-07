@@ -15,7 +15,7 @@ const Footer = () => {
             <Link to="/">
                 <Logo />
             </Link>
-            <p  className='mt-2'>Contoso Traders is an e-commerce platform that specializes in electronic items. Our website offers a wide range of electronics, including smartphones, laptops, and other popular gadgets.</p>
+            <p  className='mt-2'>Contoso Traders is one stop shop for electronics items including smartphones, laptops, and other popular gadgets. Contoso Traders delivery premium quality electronics at affordable rates to resellers across the globe.</p>
         </Grid>
         <Grid item xs={2} className='section-2'>
             <ul>
